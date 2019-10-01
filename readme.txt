@@ -1,0 +1,1 @@
+get regex from the user input, then search in Linux /usr/share/dict/words and show the words in screen.
